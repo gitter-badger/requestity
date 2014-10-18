@@ -1,5 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/archr/requestity.png?label=ready&title=Ready)](https://waffle.io/archr/requestity)
 # requestity
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/archr/requestity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Motivación
 Despúes de tener que consumir suficientes web services de terceros que cambian constatemente durante su fase de desarrollo decidi generar una libreria donde a partir de objectos json/js se puedan generar todas las peticiones requeridas.
